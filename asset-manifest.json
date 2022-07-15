@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alphabet-game/static/css/main.1da683bc.css",
+    "main.js": "/alphabet-game/static/js/main.80c4cb4f.js",
+    "static/js/787.0cbdd04e.chunk.js": "/alphabet-game/static/js/787.0cbdd04e.chunk.js",
+    "index.html": "/alphabet-game/index.html",
+    "main.1da683bc.css.map": "/alphabet-game/static/css/main.1da683bc.css.map",
+    "main.80c4cb4f.js.map": "/alphabet-game/static/js/main.80c4cb4f.js.map",
+    "787.0cbdd04e.chunk.js.map": "/alphabet-game/static/js/787.0cbdd04e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da683bc.css",
+    "static/js/main.80c4cb4f.js"
+  ]
+}
